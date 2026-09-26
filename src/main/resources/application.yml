@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: integration-auction-to-order
+
+server:
+  port: 8109
